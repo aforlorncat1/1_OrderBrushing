@@ -1,4 +1,4 @@
-Shopee Code League #1: Order Brushing
+### Order Brushing
 
 Jupyter Notebook outlining the process to achieve a solution to Shopee's Order Brushing challenge.
 
